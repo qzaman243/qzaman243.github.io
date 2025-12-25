@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Author 1.png"
+  avatar           : "Qamar.png"
   name             : "Qamar Zaman"
   pronouns         : # example: "He/him"  
   bio              : "Research Student"
