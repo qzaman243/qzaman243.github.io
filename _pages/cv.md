@@ -11,23 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Engineering, National University of Sciences & Technology (NUST),Islamabad,Pakistan, 2025
+* 12th Level in Pre-Engineereing, GICCL,2020
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
+* Undergrad Researcher
+  * National University of Sciences & Technology (NUST),Islamabad,Pakistan,2024-2025
   * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+  * Supervisor: Dr.Muhammad Salman,Dr.Sagheer Khan
 
 * Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * 
 
-* Summer 2015: Research Assistant
+* Summer 2023: Internship
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
