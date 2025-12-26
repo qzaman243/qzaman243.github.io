@@ -12,5 +12,4 @@ During my undergraduate research, I designed and implemented a Wi-Fi-enabled occ
 
 In parallel, I have hands-on experience in machine learning, deep learning, and computer vision, including regression models, CNN-based systems, GANs (CycleGAN), and real-time inference pipelines. My hardware background includes FPGA design, embedded Linux, UART-based systems, and edge AI deployment, enabling me to bridge the gap between theory and implementation.
 ## Visitor Statistics
-<script type="text/javascript" id="mmvst_globe" src="//mapmyvisitors.com/globe.js?d=i9SlKJNdIcA617_A3cNoREI1JdC1nODqbvx0Sn8-zhE"></script>
-
+<a href="https://mapmyvisitors.com/web/1c1he"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=D7lfDzzB7axCyg-zSymPkCvWXgmGaN9--XxQ_wHREXM&cl=ffffff" /></a>
