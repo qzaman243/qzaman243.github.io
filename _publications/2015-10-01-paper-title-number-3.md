@@ -5,7 +5,7 @@ category: manuscripts
 permalink: https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection
 excerpt: ''
 date: 2025-10-01
-venue: 'Applied Intelligence'
+Under Review: 'Applied Intelligence Journal (Springer)'
 slidesurl: ''
 paperurl: ''
 bibtexurl: ''
