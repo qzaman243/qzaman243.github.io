@@ -1,7 +1,7 @@
 ---
 title: "CSI Dataset for WiFi Based Human Deetcion and Monitoring System"
 collection: publications
-category: Dataset
+category: Publication
 permalink: 'https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection'
 excerpt: ''
 date: 2025-10-01
