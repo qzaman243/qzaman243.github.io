@@ -1,5 +1,5 @@
 ---
-title: "PiSense:Wifi based Human detection system using Commodity WiFi Routers"
+title: "PiSense: A Raspberry Pi-Based Real-Time Occupancy Detection System Using CSI from Commodity WiFi"
 collection: publications
 category: manuscripts
 permalink: https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection
