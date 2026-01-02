@@ -12,10 +12,10 @@ main:
     url: /publications/
 
   - title: "Recent Projects"
-    url: /talks/    
+    url: /recent-projects/    
 
   - title: "Semester Projects"
-    url: /teaching/    
+    url: /semester-projects/    
     
   - title: "Skills"
     url: /portfolio/
