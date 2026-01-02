@@ -278,7 +278,7 @@ def parse_publications(pub_dir):
     return publications
 
 def parse_talks(talks_dir):
-    """Parse talks from the _talks directory."""
+    """Parse recent projects from the _recent_projects directory."""
     talks = []
     
     if not os.path.exists(talks_dir):
@@ -307,7 +307,7 @@ def parse_talks(talks_dir):
     return talks
 
 def parse_teaching(teaching_dir):
-    """Parse teaching from the _teaching directory."""
+    """Parse semester projects from the _semester_projects directory."""
     teaching = []
     
     if not os.path.exists(teaching_dir):
@@ -389,11 +389,11 @@ def create_cv_json(md_file, config_file, repo_root, output_file):
     # Add publications
     cv_json["publications"] = parse_publications(os.path.join(repo_root, "_publications"))
     
-    # Add talks
-    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_talks"))
+    # Add recent projects
+    cv_json["presentations"] = parse_talks(os.path.join(repo_root, "_recent_projects"))
     
-    # Add teaching
-    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_teaching"))
+    # Add semester projects
+    cv_json["teaching"] = parse_teaching(os.path.join(repo_root, "_semester_projects"))
     
     # Add portfolio
     cv_json["portfolio"] = parse_portfolio(os.path.join(repo_root, "_portfolio"))

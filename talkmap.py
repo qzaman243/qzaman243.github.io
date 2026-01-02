@@ -1,7 +1,7 @@
-# Leaflet cluster map of talk locations
+# Leaflet cluster map of recent project locations
 #
-# Run this from the _talks/ directory, which contains .md files of all your
-# talks. This scrapes the location YAML field from each .md file, geolocates it
+# Run this from the _recent_projects/ directory, which contains .md files of all your
+# recent projects. This scrapes the location YAML field from each .md file, geolocates it
 # with geopy/Nominatim, and uses the getorg library to output data, HTML, and
 # Javascript for a standalone cluster map. This is functionally the same as the
 # #talkmap Jupyter notebook.
@@ -15,7 +15,7 @@ from geopy.exc import GeocoderTimedOut
 TIMEOUT = 5
 
 # Collect the Markdown files
-g = glob.glob("_talks/*.md")
+g = glob.glob("_recent_projects/*.md")
 
 # Prepare to geolocate
 geocoder = Nominatim(user_agent="academicpages.github.io")
