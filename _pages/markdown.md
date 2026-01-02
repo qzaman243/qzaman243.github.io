@@ -19,7 +19,7 @@ redirect_from:
   * _portfolio/
   * _posts/
   * _semester_projects/
-  * _Recent Projects/
+  * _recent_projects/
 * Footer: _includes/footer.html
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png

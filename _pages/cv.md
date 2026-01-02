@@ -46,7 +46,7 @@ Publications
   
 Recent Projects
 ======
-  <ul>{% for post in site["Recent Projects"] reversed %}
+  <ul>{% for post in site.recent_projects reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
