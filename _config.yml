@@ -232,7 +232,7 @@ collections:
     permalink: /:collection/:path/
   "Recent Projects":
     output: true
-    permalink: /:collection/:path/
+    permalink: /recent-projects/:path/
 
 
 # These settings control how pages and collections are included in the site
