@@ -71,7 +71,7 @@ for row, item in talks.iterrows():
     year = item.date[:4]
     
     md = "---\ntitle: \""   + item.title + '"\n'
-    md += "collection: recent_projects" + "\n"
+    md += "collection: \"Recent Projects\"" + "\n"
     
     if len(str(item.type)) > 3:
         md += 'type: "' + item.type + '"\n'
@@ -103,7 +103,7 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../_recent_projects/" + md_filename, 'w') as f:
+    with open("../_Recent Projects/" + md_filename, 'w') as f:
         f.write(md)
 
 

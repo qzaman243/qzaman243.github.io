@@ -230,7 +230,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  recent_projects:
+  "Recent Projects":
     output: true
     permalink: /:collection/:path/
 
@@ -282,10 +282,10 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _recent_projects
+  # _Recent Projects
   - scope:
       path: ""
-      type: recent_projects
+      type: "Recent Projects"
     values:
       layout: talk
       author_profile: true

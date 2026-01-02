@@ -11,6 +11,6 @@ author_profile: true
 
 {% endif %}
 
-{% for post in site.recent_projects reversed %}
+{% for post in site["Recent Projects"] reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
