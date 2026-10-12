@@ -23,7 +23,7 @@ repository               : "qzaman243/qzaman243.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Qamar Zaman"
   pronouns         : # example: "He/him"  
   bio              : "Computer Engineer | Wireless Sensing & ML Researcher  "
@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  datasets:
+    title: 'Datasets'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
