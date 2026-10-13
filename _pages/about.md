@@ -11,18 +11,16 @@ I am currently working with [Dr. Sagheer Khan](https://pure.kfupm.edu.sa/en/pers
 
 My research focuses on contactless human sensing with WiFi. During my undergraduate studies, I worked with [Dr. Muhammad Salman](https://salmanpolito.github.io/) and Dr. Sagheer Khan on occupancy detection using WiFi Channel State Information (CSI). I built a real-time sensing system on a Raspberry Pi with Nexmon. This work led to a first-author journal paper, [PiSense](https://link.springer.com/article/10.1007/s00607-026-01751-9), in *Computing* (Springer, 2026), and a public [CSI dataset on IEEE DataPort](https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection).
 
-I also have hands-on experience in machine learning, deep learning and NLP. My hardware background includes FPGA design, embedded Linux and edge AI deployment.
+I also have hands-on experience in machine learning, deep learning and NLP. My hardware background includes embedded Linux and edge AI deployment.
 
 I am always happy to discuss research ideas! Please feel free to reach out to me at zqamar243463 [at] gmail [dot] com.
 
 ## Research Interests
 
-My main interests are:
-
-1. **Artificial Intelligence and Machine Learning:** deep learning, semi-supervised learning and NLP, especially applied to real-world sensor and time-series data.
-2. **Internet of Things (IoT):** connected sensing systems for smart environments, including the Internet of Medical Things (IoMT) and digital twins for healthcare.
-3. **Wireless sensing:** using WiFi Channel State Information (CSI) to detect human presence, activity and occupancy without cameras or wearables.
-4. **Edge computing and edge intelligence:** running AI models directly on low-cost devices such as the Raspberry Pi and FPGAs for fast, private, real-time decisions.
+- Artificial Intelligence and Machine Learning
+- Internet of Things (IoT)
+- Wireless Sensing
+- Edge Computing and Edge Intelligence
 
 ## My Research at a Glance
 
