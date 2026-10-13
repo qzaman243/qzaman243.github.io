@@ -14,9 +14,6 @@ main:
   - title: "Recent Projects"
     url: /talks/    
 
-  - title: "Semester Projects"
-    url: /teaching/    
-    
   - title: "Skills"
     url: /portfolio/
         
