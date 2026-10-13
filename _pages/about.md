@@ -6,11 +6,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Computer Engineering graduate with strong research interests at the intersection of Artificial Intelligence, Machine Learning, and hardware-centric intelligent systems. My academic work focuses on developing non-invasive human sensing and occupancy detection systems using Wi-Fi Channel State Information (CSI), where I integrate signal processing, machine learning, and embedded systems to solve real-world problems.
+Hello! I am Qamar Zaman, a Computer Engineer. I completed my Bachelor's degree in Computer Engineering at the National University of Sciences and Technology (NUST), Pakistan.
 
-During my undergraduate research, I designed and implemented a Wi-Fi-enabled occupancy detection system using Raspberry Pi and Nexmon, involving real-time CSI extraction, noise reduction, feature engineering, and ML-based classification. This work led to the publication of a [CSI dataset on IEEE DataPort](https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection) and a first-author journal paper, [PiSense](https://link.springer.com/article/10.1007/s00607-026-01751-9), in *Computing* (Springer, 2026).
+I am currently working with [Dr. Sagheer Khan](https://pure.kfupm.edu.sa/en/persons/sagheer-khan/) (SDAIA–KFUPM Joint Research Center for Artificial Intelligence, King Fahd University of Petroleum & Minerals) on the Internet of Things (IoT), the Internet of Medical Things (IoMT) and digital twins for healthcare.
 
-In parallel, I have hands-on experience in machine learning, deep learning, and computer vision, including regression models, CNN-based systems, GANs (CycleGAN), and real-time inference pipelines. My hardware background includes FPGA design, embedded Linux, UART-based systems, and edge AI deployment, enabling me to bridge the gap between theory and implementation.
+My research focuses on contactless human sensing with WiFi. During my undergraduate studies, I worked with [Dr. Muhammad Salman](https://salmanpolito.github.io/) and Dr. Sagheer Khan on occupancy detection using WiFi Channel State Information (CSI). I built a real-time sensing system on a Raspberry Pi with Nexmon. This work led to a first-author journal paper, [PiSense](https://link.springer.com/article/10.1007/s00607-026-01751-9), in *Computing* (Springer, 2026), and a public [CSI dataset on IEEE DataPort](https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection).
+
+I also have hands-on experience in machine learning, deep learning and NLP. My hardware background includes FPGA design, embedded Linux and edge AI deployment.
+
+I am always happy to discuss research ideas! Please feel free to reach out to me at zqamar243463 [at] gmail [dot] com.
+
 ## My Research at a Glance
 
 ### PiSense: WiFi-based occupancy detection
