@@ -17,11 +17,12 @@ I am always happy to discuss research ideas! Please feel free to reach out to me
 
 ## Research Interests
 
-- **Wireless and contactless sensing:** using WiFi Channel State Information (CSI) to detect human presence, activity and occupancy without cameras or wearables.
-- **IoT and the Internet of Medical Things (IoMT):** connected sensing systems for smart environments and healthcare monitoring.
-- **Digital twins for healthcare:** virtual models of patients and care environments that combine real-time sensor data with AI.
-- **Machine learning and deep learning for signals:** signal processing, feature extraction and semi-supervised learning on time-series sensor data.
-- **Edge AI and embedded systems:** running intelligent models on low-cost hardware such as the Raspberry Pi and FPGAs.
+My main interests are:
+
+1. **Artificial Intelligence and Machine Learning:** deep learning, semi-supervised learning and NLP, especially applied to real-world sensor and time-series data.
+2. **Internet of Things (IoT):** connected sensing systems for smart environments, including the Internet of Medical Things (IoMT) and digital twins for healthcare.
+3. **Wireless sensing:** using WiFi Channel State Information (CSI) to detect human presence, activity and occupancy without cameras or wearables.
+4. **Edge computing and edge intelligence:** running AI models directly on low-cost devices such as the Raspberry Pi and FPGAs for fast, private, real-time decisions.
 
 ## My Research at a Glance
 
