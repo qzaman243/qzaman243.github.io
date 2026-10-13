@@ -44,15 +44,15 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Recent Projects
+Talks
 ======
-  <ul>{% for post in site.recent_projects reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Semester Projects
+Teaching
 ======
-  <ul>{% for post in site.semester_projects reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
