@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to Zaman's Academic Website!"
 author_profile: true
 redirect_from: 
   - /about/
