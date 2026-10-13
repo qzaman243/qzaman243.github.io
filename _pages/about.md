@@ -15,6 +15,14 @@ I also have hands-on experience in machine learning, deep learning and NLP. My h
 
 I am always happy to discuss research ideas! Please feel free to reach out to me at zqamar243463 [at] gmail [dot] com.
 
+## Research Interests
+
+- **Wireless and contactless sensing:** using WiFi Channel State Information (CSI) to detect human presence, activity and occupancy without cameras or wearables.
+- **IoT and the Internet of Medical Things (IoMT):** connected sensing systems for smart environments and healthcare monitoring.
+- **Digital twins for healthcare:** virtual models of patients and care environments that combine real-time sensor data with AI.
+- **Machine learning and deep learning for signals:** signal processing, feature extraction and semi-supervised learning on time-series sensor data.
+- **Edge AI and embedded systems:** running intelligent models on low-cost hardware such as the Raspberry Pi and FPGAs.
+
 ## My Research at a Glance
 
 ### PiSense: WiFi-based occupancy detection
