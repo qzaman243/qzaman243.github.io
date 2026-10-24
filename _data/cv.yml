@@ -1,0 +1,100 @@
+cv:
+  name: Qamar Zaman
+  label: Computer Engineer · AI, ML, IoT & Wireless Sensing
+  email: zqamar243463@gmail.com
+  location: Islamabad, Pakistan
+  image: ""
+  summary: Computer Engineer working on contactless human sensing with WiFi CSI, IoT/IoMT and digital twins for healthcare, and edge intelligence.
+
+  social_networks:
+    - network: GitHub
+      username: qzaman243
+    - network: LinkedIn
+      username: qamar-zaman-0b5876203
+    - network: ORCID
+      username: 0009-0004-0467-902X
+
+  sections:
+    Education:
+      - institution: National University of Sciences and Technology (NUST)
+        location: Islamabad, Pakistan
+        url: https://nust.edu.pk/
+        area: Computer Engineering
+        studyType: BS
+        date: 2025
+        highlights:
+          - "Final year project: WiFi-enabled real-time occupancy detection using Channel State Information (CSI), published as PiSense in Computing (Springer, 2026)."
+
+      - institution: GICCL
+        area: Pre-Engineering
+        studyType: Intermediate (12th grade)
+        date: 2020
+
+    Experience:
+      - company: IoT, IoMT and Digital Twins in Healthcare
+        position: Researcher, with Dr. Sagheer Khan (SDAIA–KFUPM Joint Research Center for AI)
+        start_date: 2025
+        end_date: present
+        highlights:
+          - Research on IoT, the Internet of Medical Things (IoMT) and digital twins for healthcare.
+
+      - company: National University of Sciences and Technology (NUST)
+        position: Undergraduate Researcher
+        location: Islamabad, Pakistan
+        start_date: 2024
+        end_date: 2025
+        highlights:
+          - Built PiSense, a real-time WiFi CSI occupancy detection system on a Raspberry Pi with Nexmon.
+          - Collected and published a public CSI dataset on IEEE DataPort.
+          - "Supervisors: Dr. Muhammad Salman and Dr. Sagheer Khan."
+
+    Publications:
+      - title: "PiSense: a Raspberry Pi-based real-time occupancy detection system using CSI from commodity WiFi"
+        authors:
+          - Qamar Zaman
+          - Muhammad Ahmad
+          - Sagheer Khan
+          - Muhammad Salman
+        publisher: Computing (Springer), vol. 108, no. 11, art. 161
+        releaseDate: 2026-10-10
+        url: https://link.springer.com/article/10.1007/s00607-026-01751-9
+
+      - title: CSI Dataset for WiFi Based Human Detection
+        authors:
+          - Qamar Zaman
+          - Muhammad Ahmad
+          - Muhammad Salman
+          - Sagheer Khan
+        publisher: IEEE DataPort
+        releaseDate: 2025-06-11
+        url: https://ieee-dataport.org/documents/csi-dataset-wifi-based-human-detection
+
+    Skills:
+      - name: Programming
+        icon: fa-solid fa-code
+        keywords: "Python, C, C++, MATLAB, MySQL"
+
+      - name: AI / ML
+        icon: fa-solid fa-brain
+        keywords: "Machine learning, deep learning, CNNs, GANs (CycleGAN), semi-supervised learning, PyTorch, TensorFlow, scikit-learn"
+
+      - name: NLP / LLMs
+        icon: fa-solid fa-comments
+        keywords: "BERT, Sentence Transformers, LLMs (Deepseek R1), Regex-based classification"
+
+      - name: Signal processing
+        icon: fa-solid fa-wave-square
+        keywords: "WiFi CSI analysis, Discrete Wavelet Transform (DWT), feature extraction"
+
+      - name: IoT and edge
+        icon: fa-solid fa-microchip
+        keywords: "Raspberry Pi, Nexmon, Arduino, embedded Linux, UART, edge AI deployment"
+
+      - name: Deployment and tools
+        icon: fa-solid fa-server
+        keywords: "FastAPI, REST APIs, Git, Linux, Selenium"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-tag
+        keywords: "Artificial Intelligence, Machine Learning, Internet of Things, Wireless Sensing, Edge Computing and Edge Intelligence"

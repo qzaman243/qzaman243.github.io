@@ -1,15 +1,14 @@
 ---
-layout: single
+layout: page
 permalink: /fun/
-title: "Fun 🎉"
-author_profile: true
-redirect_from:
-  - /year-archive/
+title: fun
+description: Books, workouts and everything outside research.
+nav: true
+nav_order: 6
 ---
 
 Research is great, but there's more to life than CSI signals and confusion matrices! 😄 When I step away from my laptop, I'm usually doing one of two things: **reading a book 📚** or **moving my body 💪**.
 
----
 
 ## 📚 The Bookworm Side
 
@@ -27,7 +26,6 @@ My reading list is a strange but wonderful mix of **history 🏛️**, **quantum
 
 > 💬 Have a book recommendation on history, physics or the big questions of life? I'm always looking for my next read, so send it my way!
 
----
 
 ## 💪 The Active Side
 
@@ -38,6 +36,5 @@ A sharp mind needs a strong body (and a calm one too 🧘). Here's where you can
 - 🏏 **The cricket field:** of course! Bat, ball and good friends make the perfect afternoon.
 - 🦾 **Pull-ups:** my all-time favourite exercise. Simple, honest and always a challenge. Just you versus gravity!
 
----
 
 *Fun fact: a good workout or a good book is often the best debugging tool there is.* 🚀
