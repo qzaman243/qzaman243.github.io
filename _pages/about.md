@@ -32,7 +32,7 @@ My research focuses on contactless human sensing with WiFi. During my undergradu
 
 I also have hands-on experience in machine learning, deep learning and NLP. My hardware background includes embedded Linux and edge AI deployment.
 
-**Research interests**
+<strong style="font-weight: 700; font-size: 1.15em;">Research interests</strong>
 
 - Artificial Intelligence and Machine Learning
 - Internet of Things (IoT)
