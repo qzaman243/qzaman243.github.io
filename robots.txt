@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://qzaman243.github.io/sitemap.xml
