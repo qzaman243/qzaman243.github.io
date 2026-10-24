@@ -21,14 +21,14 @@ cv:
         url: https://nust.edu.pk/
         area: Computer Engineering
         studyType: BS
-        end_date: 2025
+        date: 2025
         highlights:
           - "Final year project: WiFi-enabled real-time occupancy detection using Channel State Information (CSI), published as PiSense in Computing (Springer, 2026)."
 
       - institution: GICCL
         area: Pre-Engineering
         studyType: Intermediate (12th grade)
-        end_date: 2020
+        date: 2020
 
     Experience:
       - company: IoT, IoMT and Digital Twins in Healthcare
@@ -42,7 +42,7 @@ cv:
         position: Undergraduate Researcher
         location: Islamabad, Pakistan
         start_date: 2024
-        end_date: 2025
+        date: 2025
         highlights:
           - Built PiSense, a real-time WiFi CSI occupancy detection system on a Raspberry Pi with Nexmon.
           - Collected and published a public CSI dataset on IEEE DataPort.
