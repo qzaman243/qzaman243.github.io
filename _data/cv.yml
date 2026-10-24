@@ -48,6 +48,14 @@ cv:
           - Collected and published a public CSI dataset on IEEE DataPort.
           - "Supervisors: Dr. Muhammad Salman and Dr. Sagheer Khan."
 
+    Volunteer:
+      - company: COMPPEC & IEEE ICoDT2 2022
+        position: Deputy Director, Registration
+        date: 2022
+        highlights:
+          - Helped run participant registration for COMPPEC (All Pakistan Computer Project Competition and Exhibition) and the IEEE International Conference on Digital Futures and Transformative Technologies (ICoDT2).
+          - "[View certificate](https://drive.google.com/file/d/1jDXH-13qbOtq2FB2IKP_jhwKynYIPquZ/view)"
+
     Publications:
       - title: "PiSense: a Raspberry Pi-based real-time occupancy detection system using CSI from commodity WiFi"
         authors:
@@ -93,6 +101,31 @@ cv:
       - name: Deployment and tools
         icon: fa-solid fa-server
         keywords: "FastAPI, REST APIs, Git, Linux, Selenium"
+
+    Certificates:
+      - name: The Raspberry Pi Platform and Python Programming for the Raspberry Pi
+        issuer: University of California, Irvine (Coursera)
+        date: 2025-06-10
+        url: https://www.coursera.org/account/accomplishments/verify/3NER2YCWFX6Q
+        icon: fa-solid fa-certificate
+
+      - name: Introduction to the Internet of Things and Embedded Systems
+        issuer: University of California, Irvine (Coursera)
+        date: 2025-03-28
+        url: https://www.coursera.org/account/accomplishments/verify/1TOZL4RTVQ72
+        icon: fa-solid fa-certificate
+
+      - name: Participant, COMPPEC 2025 (All Pakistan Computer Project Competition and Exhibition)
+        issuer: COMPPEC
+        date: 2025
+        url: https://drive.google.com/file/d/1laxMcn4C1gUTU83ZlA6gILTVTCa2riON/view
+        icon: fa-solid fa-trophy
+
+      - name: Deputy Director, Registration, COMPPEC & IEEE ICoDT2
+        issuer: COMPPEC / IEEE ICoDT2
+        date: 2022
+        url: https://drive.google.com/file/d/1jDXH-13qbOtq2FB2IKP_jhwKynYIPquZ/view
+        icon: fa-solid fa-id-badge
 
     Interests:
       - name: Research
