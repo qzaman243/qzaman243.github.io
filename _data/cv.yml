@@ -42,7 +42,7 @@ cv:
         position: Undergraduate Researcher
         location: Islamabad, Pakistan
         start_date: 2024
-        date: 2025
+        end_date: 2025
         highlights:
           - Built PiSense, a real-time WiFi CSI occupancy detection system on a Raspberry Pi with Nexmon.
           - Collected and published a public CSI dataset on IEEE DataPort.
