@@ -2,7 +2,7 @@
 layout: page
 title: Digital Twins in Healthcare 4.0
 description: Review paper on digital twins for healthcare (submitted)
-img: assets/img/research/digital-twins-healthcare.jpg
+img: assets/img/research/digital-twins-healthcare.png
 importance: 1
 category: research
 ---
@@ -13,11 +13,11 @@ In this work, together with [Dr. Sagheer Khan](https://pure.kfupm.edu.sa/en/pers
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/research/digital-twins-healthcare.jpg" title="Digital twins in healthcare" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/research/digital-twins-healthcare.png" title="Digital twins in healthcare" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    A patient's digital twin: live data from wearable sensors feeds a virtual model of the body that clinicians can explore and analyse with AI.
+    The physical patient and their digital twin, linked by IoMT sensing, 5G/6G connectivity, AI, edge and cloud computing, hybrid models and feedback.
 </div>
 
 **Status:** submitted for publication. Details will be added here once the paper is published.
