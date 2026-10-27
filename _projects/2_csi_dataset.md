@@ -3,7 +3,7 @@ layout: page
 title: CSI Dataset
 description: Public WiFi CSI dataset for human detection (IEEE DataPort)
 img: assets/img/research/dataset-csi-sniffing.png
-importance: 2
+importance: 3
 category: research
 related_publications: true
 ---

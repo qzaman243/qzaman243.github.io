@@ -3,7 +3,7 @@ layout: page
 title: Hybrid Log Classification
 description: Regex, BERT and the Deepseek R1 LLM working together to classify logs
 img: assets/img/research/log-classification-pipeline.png
-importance: 3
+importance: 4
 category: engineering
 ---
 

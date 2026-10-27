@@ -3,7 +3,7 @@ layout: page
 title: PiSense
 description: Real-time WiFi occupancy detection on a Raspberry Pi
 img: assets/img/research/pisense-methodology.png
-importance: 1
+importance: 2
 category: research
 related_publications: true
 ---
