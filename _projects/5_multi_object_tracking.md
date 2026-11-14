@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Multi-Object Tracking
-description: Real-time tracking of people and vehicles in video with YOLOv5 and Deep SORT
+description: Real-time tracking of people and vehicles in video with YOLOv5, Deep SORT and OC-SORT
 img: assets/img/research/multi-object-tracking.jpg
 importance: 5
 category: computer vision
 ---
 
-**Supervisor:** Shahid Ismail
+**Supervisor:** Dr. Shahid Ismail
 
 **Computer Vision semester project, National University of Sciences and Technology (NUST), Islamabad, 2025**
 
@@ -29,11 +29,13 @@ The system follows the **tracking-by-detection** approach: detect objects in eve
 
 - **Object detection:** YOLOv5 (PyTorch) finds objects in each frame. Detections are filtered by class (person, car, truck, bus and motorcycle) and by confidence.
 - **Motion prediction:** a Kalman filter predicts where each tracked object will be in the next frame.
-- **Appearance features:** Deep SORT describes how each object looks, which helps tell similar objects apart.
+- **Tracking algorithms:** two trackers were used.
+  - **Deep SORT** adds an appearance model, a learned description of how each object looks, which helps tell similar objects apart and recover them after short occlusions.
+  - **OC-SORT** (Observation-Centric SORT) relies on the detections themselves to correct the motion model. This makes it more robust when objects are hidden for a while or move in non-linear ways.
 - **Data association:** the Hungarian algorithm matches new detections to existing tracks, so each object keeps its ID.
 - **Visualisation:** each frame is drawn with bounding boxes, class labels, track IDs and a live FPS counter, and the annotated video can be saved.
 
-The system was tested on **MOT16-03**, a crowded street scene from the MOT16 benchmark, using Python, OpenCV, YOLOv5 and the Deep SORT Realtime library.
+The system was tested on **MOT16-03**, a crowded street scene from the MOT16 benchmark, using Python, PyTorch, OpenCV, YOLOv5, Deep SORT and OC-SORT.
 
 ## Key findings
 
