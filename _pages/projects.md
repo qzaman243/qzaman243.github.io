@@ -5,7 +5,7 @@ permalink: /projects/
 description: Research and engineering projects in AI, wireless sensing and IoT.
 nav: true
 nav_order: 3
-display_categories: [research, engineering]
+display_categories: [research, computer vision, engineering]
 horizontal: false
 ---
 
