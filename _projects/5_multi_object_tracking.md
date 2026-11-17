@@ -7,7 +7,7 @@ importance: 5
 category: computer vision
 ---
 
-**Supervisor:** Dr. Shahid Ismail
+**Supervisor:** Prof. Muhammad Usman Akram
 
 **Computer Vision semester project, National University of Sciences and Technology (NUST), Islamabad, 2025**
 
